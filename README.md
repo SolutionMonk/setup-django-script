@@ -221,14 +221,3 @@ MIT License - feel free to use and modify.
 
 For issues or questions, please open an issue on GitHub.
 ```
-
-This README:
-- Explains what the script does clearly
-- Lists requirements with installation links
-- Shows simple usage examples
-- Explains all arguments and options
-- Shows what gets created
-- Includes troubleshooting section
-- Uses plain markdown, no emojis
-- Written for complete beginners
-- Focused on the script itself, not the generated project
