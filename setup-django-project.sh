@@ -437,7 +437,7 @@ initialize_uv_project() {
   
   # Add dependencies
   log "Adding Django dependencies..."
-  uv add "django>=6.0" || err "Failed to add Django"
+  uv add "django>=5.2.9" || err "Failed to add Django"
   
   log "Adding PostgreSQL adapter..."
   uv add "psycopg[binary]>=3.3.2" || err "Failed to add psycopg"
